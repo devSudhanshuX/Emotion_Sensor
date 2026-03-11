@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148042729403",
+    "project_id": "emotion-sensor",
+    "storage_bucket": "emotion-sensor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148042729403:android:11451c06bda8737d0f669e",
+        "android_client_info": {
+          "package_name": "com.example.emotion_sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTn18-Q1CPthN5MlFxV5YdsqXbrCaf8C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
